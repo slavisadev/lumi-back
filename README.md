@@ -15,3 +15,7 @@
 <p>You will receive a message similar to this:</p>
 <p>Starting Laravel development server: http://127.0.0.1:8000</p>
 <p>You will need this address for env.js file in your frontend part of the app.</p>
+
+`php artisan test`
+
+<p>2 Feature tests</p>
